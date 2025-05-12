@@ -3,6 +3,28 @@ A fully-featured Telegram system for VORP based RedM servers with an intuitive U
 
 ### Purchase Link : **Soon**
 
+## Showcase
+<details>
+  <Summary>View Screenshots</Summary>
+  
+  ### Telegrams Tab
+  ![{993159F6-8756-496F-9B21-CCC5B925E30D}](https://github.com/user-attachments/assets/d1546d27-e518-4a8e-b262-3afe98f77961)
+
+  ### Compose Tab
+  ![{8A05C7C3-A9A7-4A34-A99D-9098E57114C4}](https://github.com/user-attachments/assets/bb605806-a784-478d-9808-c557a44bbd5a)
+
+  ### Directory Tab
+  ![{A4E7429D-CE0F-4870-B4C1-FFF549474D9A}](https://github.com/user-attachments/assets/edc50100-f320-4288-ba3e-c5176af10601)
+  ![{E6153873-5F90-441D-852F-7A119DFE5600}](https://github.com/user-attachments/assets/12691ad6-0b9d-4944-878e-4167ee71a7cb)
+
+  ### Extras Tab
+  ![{FE8FB96E-A52D-44C9-9C3B-A5AF2EE6B66D}](https://github.com/user-attachments/assets/4e39b148-2be5-4b61-adb5-0b106b23dca9)
+
+  ### Item Telegram
+  ![{B25FE2EB-2446-48DB-BD84-86CEA96AA722}](https://github.com/user-attachments/assets/376aeb86-fd44-4178-81f3-7b8d9ab2798d)
+
+</details>
+
 ## ✨ Features
 ### UI Features
 - **Inbox Tab:**
