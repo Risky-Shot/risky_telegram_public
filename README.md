@@ -1,7 +1,7 @@
 # 📬 Risky Telegram [VORP]
 A fully-featured Telegram system for VORP based RedM servers with an intuitive UI, Tebex support, and item export functionality. Built with extensibility and roleplay immersion in mind.
 
-### Purchase Link : **Soon**
+### Purchase Link : [**Buy**](https://riskyshot-developments.tebex.io/package/telegram)
 
 ## Showcase
 <details>
