@@ -90,3 +90,7 @@ A fully-featured Telegram system for VORP based RedM servers with an intuitive U
 
 ## 🎧 Support
 For support or feature requests, feel free to open an issue or contact the developer.
+
+## 🔮 Roadmap
+- [] Discord Webhook For Logging
+- [] Share and Job Specific Telegrams
