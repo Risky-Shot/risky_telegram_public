@@ -1,5 +1,6 @@
 <1.1.1>
 Added Config for Prompt Text
+Added Config for showing unread status on screen. Check config to manage the placement as per your hud. This would increase resource usage as it's a sprite.
 
 <1.1.0>
 Added Foreign Keys for TelegramId columns. Refer `update_1.1.sql` file
