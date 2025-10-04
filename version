@@ -1,3 +1,6 @@
+<1.1.1>
+Added Config for Prompt Text
+
 <1.1.0>
 Added Foreign Keys for TelegramId columns. Refer `update_1.1.sql` file
 Fixed datatype for identifier column in telegram_token table. Refer `update_1.1.sql` file
