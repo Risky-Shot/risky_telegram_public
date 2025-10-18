@@ -1,3 +1,8 @@
+<v1.2.0>
+Reworked UI to support colors (as latest version of Tailwind doesn't work with CFX chromium) : Now Selected Tab is highlighted
+Added Telegram Receive Notification Disable feature (both server-side and client specific too inside Manage tab of UI) : If it's disabled server side then user won't get option to change state. `update_1.2.sql` for existing users
+Added few QOL features (Hide/Show radar and a sound when ui is open/closed) 
+
 <1.1.1>
 Added Config for Prompt Text
 Added Config for showing unread status on screen. Check config to manage the placement as per your hud. This would increase resource usage as it's a sprite.
