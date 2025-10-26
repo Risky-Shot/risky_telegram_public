@@ -1,3 +1,9 @@
+<1.2.2>
+Fixed Underline and Heading Property in Telegrams
+Fixed Correct TelegramId to be shown in Telegrams
+Fixed TelegramId and Postal in Inbox Tables
+Reduced Await in UI to be visible
+
 <1.2.1>
 Fixed pagination of Telegrams and Contact list
 Fixed width of few UI elements
