@@ -1,3 +1,6 @@
+<1.2.3>
+Added Discord Logs feature for sent Telegrams. Refer config/server.lua to enable.
+
 <1.2.2>
 Fixed Underline and Heading Property in Telegrams
 Fixed Correct TelegramId to be shown in Telegrams
