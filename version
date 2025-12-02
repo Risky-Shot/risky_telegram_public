@@ -1,4 +1,4 @@
-<1.2.3>
+<1.2.4>
 Added Discord Logs feature for sent Telegrams. Refer config/server.lua to enable.
 
 <1.2.2>
