@@ -1,3 +1,6 @@
+<1.2.5>
+Added Reply button to opened telegrams for quick reply.
+
 <1.2.4>
 Added Discord Logs feature for sent Telegrams. Refer config/server.lua to enable.
 
