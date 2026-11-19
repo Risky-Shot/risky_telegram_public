@@ -1,3 +1,17 @@
+<1.4.0>
+Fresh installs create telegram_tokens.identifier wide enough for Tebex identifiers (varchar(50) instead of int).
+Telegram-number change purchases are now actually consumed when redeemed.
+Contact directory pages 30 contacts at a time with a correct page count; missing/invalid page numbers no longer break the list or the telegram list.
+A character's telegram number is now generated, saved and cached correctly when the character is selected.
+Opening a telegram you sent no longer marks it read for the sender — read state now belongs to the receiver only.
+Multi-word inbox searches work again (e.g. "Ann Smith").
+Anonymous sender no longer leaks in the inbox list or read view.
+Telegram export: an unrelated player can no longer export somebody else's telegram.
+Allow push-to-talk while in telegram UI. Movement controls stay locked while the telegram UI is open.
+/telegram chat command opens the UI (Config.TelegramCommand = false disables it).
+Anonymous telegrams: the recipient sees ANON instead of the sender, cannot reply, and the export item keeps the sender hidden.
+New Group Feature. Details below.
+
 <1.2.5>
 Added Reply button to opened telegrams for quick reply.
 
